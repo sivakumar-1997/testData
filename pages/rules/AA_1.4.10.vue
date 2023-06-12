@@ -1,0 +1,19 @@
+<template> 
+<div>
+  <p>
+   None
+  </p>
+  <p>
+   None
+  </p>
+  <p>
+   None
+  </p>
+  <p>
+   None
+  </p>
+  <p>
+   <meta content="width=device-width, initial-scale=1 maxiumun-scale=1" name="viewport">
+  </p>
+</div>
+</template>
